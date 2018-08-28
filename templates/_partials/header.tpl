@@ -31,10 +31,10 @@
             <div class="col-lg-12">
                 {hook h='displayNav'}
                 <ul class="menu-social-header">
-                    <li class="icon-social-header"><a href="https://www.facebook.com/assimil.it" target="_blank">a</a></li>
-                    <li class="icon-social-header"><a href="https://twitter.com/assimil_italia" target="_blank">b</a></li>
-                    <li class="icon-social-header"><a href="http://www.youtube.com/user/assimilitalia" target="_blank">c</a></li>
-                    <li class="icon-social-header"><a href="https://soundcloud.com/assimil-italia" target="_blank">d</a></li>
+                    <li class="icon-social-header"><a href="https://www.facebook.com/assimil.it" target="_blank"><span><i class="fab fa-facebook"></i></span></a></li>
+                    <li class="icon-social-header"><a href="https://twitter.com/assimil_italia" target="_blank"><span><i class="fab fa-twitter"></i></span></a></li>
+                    <li class="icon-social-header"><a href="http://www.youtube.com/user/assimilitalia" target="_blank"><span><i class="fab fa-youtube"></i></span></a></li>
+                    <li class="icon-social-header"><a href="https://soundcloud.com/assimil-italia" target="_blank"><span><i class="fab fa-soundcloud"></i></span></a></li>
                 </ul>
             </div>
         </div>

@@ -52,10 +52,10 @@
                   <div class="col-lg-3 col-md-6 col-sm-12 follow">
                         <h6>Seguici</h6>
                         <ul class="list-footer-social">
-                          <li class=""><a href="https://www.facebook.com/assimil.it" target="_blank"><span><i class="fab fa-facebook"></i></span></a></li>
-                          <li class=""><a href="https://twitter.com/assimil_italia" target="_blank"><span><i class="fab fa-twitter"></i></span></a></li>
-                          <li class=""><a href="http://www.youtube.com/user/assimilitalia" target="_blank"><span><i class="fab fa-youtube"></i></span></a></li>
-                          <li class=""><a href="https://soundcloud.com/assimil-italia" target="_blank"><span><i class="fab fa-soundcloud"></i></span></a></li>
+                          <li class="social-footer"><a href="https://www.facebook.com/assimil.it" target="_blank"><span><i class="fab fa-facebook"></i></span></a></li>
+                          <li class="social-footer"><a href="https://twitter.com/assimil_italia" target="_blank"><span><i class="fab fa-twitter"></i></span></a></li>
+                          <li class="social-footer"><a href="http://www.youtube.com/user/assimilitalia" target="_blank"><span><i class="fab fa-youtube"></i></span></a></li>
+                          <li class="social-footer"><a href="https://soundcloud.com/assimil-italia" target="_blank"><span><i class="fab fa-soundcloud"></i></span></a></li>
                         </ul>
                   </div>
             </div>

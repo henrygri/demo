@@ -120,6 +120,17 @@ body {
     opacity: 0.6;
 }
 
+.list-footer-social {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.social-footer {
+    display: inline-block;
+    margin-right: 10px;
+}
+
 .f-copy {
     font-size: 11px;
     font-weight: 400;

@@ -70,4 +70,7 @@
     <a href="./cortesia.php" class="button-blue" title="Contattaci">Contattaci</a>
 </div>
 
+
+{widget name="customforms"}
+
 {/block}
